@@ -7,6 +7,6 @@
 
 # My Socials 🌐
 
-- 📺 [YouTube] (https://www.youtube.com/channel/UCseSzBOgrBQY06RNX-Qr2Vg)
-- 🖼 [Instagram] (https://www.instagram.com/techplayz123/)
-- 🎞 [Twich] (https://www.twitch.tv/techplayz1234)
+- 📺 [YouTube](https://www.youtube.com/channel/UCseSzBOgrBQY06RNX-Qr2Vg)
+- 🖼 [Instagram](https://www.instagram.com/techplayz123/)
+- 🎞 [Twich](https://www.twitch.tv/techplayz1234)
