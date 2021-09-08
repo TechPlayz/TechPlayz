@@ -5,7 +5,7 @@
 - 🎞 I make Tech Tutorials and Gaming Vides on YouTube
 - ⌨ I know Python, C++, Java, html, css, javascript
 
-# My Socials 🌐
+### My Socials 🌐
 
 - 📺 [YouTube](https://www.youtube.com/channel/UCseSzBOgrBQY06RNX-Qr2Vg)
 - 🖼 [Instagram](https://www.instagram.com/techplayz123/)
